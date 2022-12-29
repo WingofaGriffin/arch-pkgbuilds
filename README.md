@@ -29,9 +29,13 @@ Please Open a Pull Request or an Issue. If I have not responded in awhile, feel 
 
 Builds [SkyEmu](https://github.com/skylersaleh/SkyEmu) from the latest git release, for emulation of GBA, GBC, and GB games.
 
+Link: https://aur.archlinux.org/packages/skyemu-git
+
 ### upset (CLI)
 
 Builds [upset](https://github.com/cosarara/upset), a fork of [Near's UPS patching tool](https://www.romhacking.net/utilities/677/) designed for use via the CLI. This is primarily used for ROM hacking retro games.
+
+Link: https://aur.archlinux.org/packages/upset_cli
 
 ## Installing
 
