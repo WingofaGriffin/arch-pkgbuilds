@@ -25,6 +25,12 @@ Please Open a Pull Request or an Issue. If I have not responded in awhile, feel 
 
 ## Packages
 
+### EmuDeck
+
+Builds [EmuDeck](https://emudeck.com) from the latest stable release, for setup of emulation.
+
+Link: https://aur.archlinux.org/packages/emudeck
+
 ### SkyEmu (git) 
 
 Builds [SkyEmu](https://github.com/skylersaleh/SkyEmu) from the latest git release, for emulation of GBA, GBC, and GB games.
