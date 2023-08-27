@@ -31,6 +31,12 @@ Builds [EmuDeck](https://emudeck.com) from the latest stable release, for setup 
 
 Link: https://aur.archlinux.org/packages/emudeck
 
+### ITGMania (bin)
+
+Builds [ITGMania](https://www.itgmania.com/) from the latest stable release, a fork of Stepmania.
+
+Link: https://aur.archlinux.org/packages/itgmania-bin
+
 ### SkyEmu (git) 
 
 Builds [SkyEmu](https://github.com/skylersaleh/SkyEmu) from the latest git release, for emulation of GBA, GBC, and GB games.
