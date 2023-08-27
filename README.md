@@ -31,9 +31,9 @@ Builds [EmuDeck](https://emudeck.com) from the latest stable release, for setup 
 
 Link: https://aur.archlinux.org/packages/emudeck
 
-### ITGMania (bin)
+### ITGmania (bin)
 
-Builds [ITGMania](https://www.itgmania.com/) from the latest stable release, a fork of Stepmania.
+Builds [ITGmania](https://www.itgmania.com/) from the latest stable release, a fork of Stepmania.
 
 Link: https://aur.archlinux.org/packages/itgmania-bin
 
